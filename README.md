@@ -41,3 +41,9 @@ Decision Tree Classifier
 
 ```bash
 streamlit run app.py
+
+## Live Demo
+
+Try the deployed app here:
+
+https://creditcarddefaultprediction-ksjgnqjbpc6nbhspsvc3n9.streamlit.app
