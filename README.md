@@ -46,4 +46,4 @@ streamlit run app.py
 
 Try the deployed app here:
 
-https://creditcarddefaultprediction-ksjgnqjbpc6nbhspsvc3n9.streamlit.app
+https://creditcarddefaultprediction-ksjgnqjbpc6nbhspsvc3n9.streamlit.app/
